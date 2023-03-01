@@ -1,0 +1,54 @@
+*{
+ background-color: #2C1F18;
+ margin: 0px;
+ padding: 0px;
+ font-family: AR;
+}
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+nav{
+      background: #281E12؛
+      width: 20px;
+      height: auto;
+      text-align: center;
+}
+nav ul li{
+     display: inline-block;
+     padding: 0px 7%;
+     margin-top: 5px; 
+     margin-right: 5px;
+     margin-left: 5px; 
+     background-color:#B28650, 0.5;
+     border: 2px solid #60482B;
+     border-radius: 20px; 
+     color: #ffffff; 
+     list-style: none;
+}
+nav ul li a{
+         color: #ffffff;
+         background-color: transparent; 
+         font-style: none;
+         font-family: Cairo; 
+        text-shadow: 3px 3px 3px #000000;
+        text-decoration: none; 
+        padding: 0px 10px; 
+} 
+.home{
+ background: #60482B;
+ border: 2px solid #8E6B40;
+} 
+.informations .admins :hover{
+  background: #60482B; 
+  border: 2px solid #8E6B40;
+  transform: scale(1,1);
+} 
+
+.header1{
+         margin-top: 5px; 
+         color:#ffffff;
+         text-align: center;
+         font-family: 'Cairo', sans-serif;
+         text-shadow: 3px 3px black;
+         width: auto; 
+         height: 40px;
+         
+}
